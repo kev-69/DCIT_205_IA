@@ -182,7 +182,7 @@ hr {
 
 }
 
-#amazing .amazing1{
+#amazing .amazing1 {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     grid-gap: 1rem;
@@ -333,4 +333,166 @@ p .premium-paragraph {
 
 .head1 {
     border-radius: 50px;
+    height: 140px;
+    width: 140px;
+
+}
+
+.facebook-icon {
+    margin: 10px;
+    padding: 10px 13px;
+    cursor: pointer;
+    border: 1px solid rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 30px;
+    height: 30px;
+}
+.facebook-icon:hover {
+    background-color: rgb(111, 184, 215);
+    color: white;
+    transition: 0.3s ease;
+}
+
+.github-icon {
+    margin: 10px;
+    padding: 10px 13px;
+    cursor: pointer;
+    border: 1px solid rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 30px;
+    height: 30px;
+}
+.github-icon:hover {
+    background-color: rgb(111, 184, 215);
+    color: white;
+    transition: 0.3s ease;
+}
+
+.linkedin-icon {
+    margin: 10px;
+    padding: 10px 13px;
+    cursor: pointer;
+    border: 1px solid rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 30px;
+    height: 30px;
+}
+.linkedin-icon:hover {
+    background-color: rgb(111, 184, 215);
+    color: white;
+    transition: 0.3s ease;
+}
+
+/*footer styling*/
+
+
+footer {
+    background-color: #041d4a;
+}
+
+
+footer .first-col {
+    padding: 0 150px 0px 100px;
+    background-color: #041d4a;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  
+}
+
+.footer-col {
+    padding-bottom: 0px;
+}
+
+footer h4 {
+    color: rgb(241, 240, 245);
+    font-weight: 600;
+    padding-bottom: 20px;
+
+}
+
+footer h5 {
+    color: rgb(241, 240, 245);
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+footer li {
+    list-style: none;
+    color: #7b838a;
+    padding: 2px 0;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+ footer li:hover {
+    color: rgb(241, 240, 245);;
+ }
+
+.second-col {
+    padding: 0 250px 50px 150px;
+    background-color: #041d4a;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+#newletters-email-p {
+     color: #7b838a;
+    
+}
+
+.newletters-input {
+    width: 220px;   
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+.newletters-subscribe {
+    text-decoration: none;
+    color: white;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: rgb(60, 60, 154);
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.newletters-subscribe:hover {
+    background-color: #e6c262;
+    transition: 0.4s ease;
+}
+
+.contacts-div {
+    display: flex;
+}
+
+.contact-icon {
+    height: 30px;
+    width: 30px;
+}
+
+.fill-icon {
+    height: 30px;
+    width: 30px;
+}
+
+
+@media (max-width: 810) {
+    nav {
+        padding: 15px 20px;
+    }
+
 }
