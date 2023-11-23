@@ -46,7 +46,7 @@ body {
     width: 100%;
     flex-direction: row;
     align-items: center;
-    border-radius: 5px;
+    border-radius: ;
     background-color: white;
     justify-content: space-around;
     box-shadow: 2px 2px 10px rgb(0, 0, 0, 0.15);
