@@ -489,6 +489,50 @@ footer li {
     height: 30px;
     width: 30px;
 }
+/**Home Page Styling Ends Here**/
+
+
+
+/**Catalog Styling Begins Here**/
+
+
+#catalog-courses-program .IT-CS {
+    text-align: center;
+}
+
+
+div .BSc-IT {
+    background-color: #dddddd;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 13px;
+    border: 1px solid rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+
+}
+
+div .BSc-CS {
+    background-color: #dddddd;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 13px;
+    border: 1px solid rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+div .grid-IT-CS{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-gap: 1rem;
+    margin-top: 70px;
+    border-radius: 5px;
+}
 
 
 @media (max-width: 810) {
