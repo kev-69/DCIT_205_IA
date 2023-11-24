@@ -656,6 +656,38 @@ div .grid-IT-CS {
     width: 140px;
 }
 
+.registration-link1 {
+    text-decoration: none;
+    color: white;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: #e6c262;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.registration-link2 {
+    text-decoration: none;
+    color: white;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: #e6c262;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.registration-link3 {
+    text-decoration: none;
+    color: white;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: #e6c262;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+
+
 
 
 /**Responsiveness**/
