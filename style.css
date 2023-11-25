@@ -593,9 +593,9 @@ div .grid-IT-CS {
 }
 
 
-/**Catalog Page Styling Begins Here**/
+/**Events Page Styling Begins Here**/
 
-#upcoming-events {
+#upcoming-events-boxes {
     padding: 50px 0;
 }
 
@@ -619,13 +619,101 @@ div .grid-IT-CS {
     font-size: 1rem;
     line-height: 25Px;
 }
+
 .h2-style {
     color: rgb(255, 255, 255);
     font-size: 1.5rem;
     letter-spacing: 1px;
 }
 
-.events-boxes{
+.guest-event {
+    display: flex;
+    margin: 10px;
+    padding: 10px 10px;
+}
+
+.guest-lectures {
+    text-align: justify;
+}
+
+.guest-img {
+    align-items: center;
+    padding: 10px;
+}
+
+#ongoing-events-boxes {
+    background-color: #f0ebeb;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border: 1px solid;
+    margin: 10px;
+    padding: 10px 10px;
+}
+
+.ccna-class {
+    background-color: azure;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 10px;
+    border: 1px dashed rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.web-class {
+    background-color: azure;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 10px;
+    border: 1px dashed rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.ccna-img {
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+}
+
+.ccna-img:hover {
+    cursor: pointer;
+    height: 180px;
+    width: 180px;
+}
+
+.web-img {
+    border-radius: 15px;
+    height: 140px;
+    width: 140px;
+}
+
+.web-img:hover {
+    cursor: pointer;
+    height: 180px;
+    width: 180px;
+}
+
+.a-class {
+    text-decoration: none;
+    color: white;
+    font-size: 0.9rem;
+    padding: 13px 35px;
+    background-color: #8f8f8f;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.events-heading {
+    text-align: center;
+}
+
+.upcoming-events-boxes {
     display: grid;
     padding: 8vw 8vw 0 8vw;
     text-align: center;
@@ -685,6 +773,9 @@ div .grid-IT-CS {
     font-weight: 500;
     border-radius: 5px;
 }
+
+
+
 
 
 
