@@ -7,7 +7,7 @@
 
     <link rel="stylesheet" href="style.css">
 
-    <script src="script.js"></script>
+    
 
 </head>
 <body>
@@ -27,54 +27,84 @@
                 </ul>
             </div>
         </nav>
-     </header>
+    </header>
 
      
     <!--Free Registration Form-->
 
     <section id="form-page">
         <h2 id="free-form-h2">Sign Up For Free!</h2>
-        <p class="paragraph-under-heading">With the free subscription, we introduce toy to some basic knowledge in the world of internet. For instance how the internet operates and some other things.<br>Please NB: You're required to select a maximum of 3 couses.</p>
+        <p class="paragraph-under-heading">With the free subscription, we introduce toy to some basic knowledge in the world of Information Technology. For instance how the internet operates and some other things.<br>Please NB: You're required to select a maximum of four(4) couses.</p>
       <section id="free-form">
         <div class="course-choices">
-        <div class="programme-choices">
-            <p class="choices"><h3 ><u>Please select three(3) courses from the following and complete the form;</u></h3></p>
-            <ol id="coursesList">
-                <li><input type="checkbox" id="item1" value="1">Introduction to programming</li>
-                <li><input type="checkbox" id="item2" value="2">Basic web development</li>
-                <li><input type="checkbox" id="item3" value="3">General knowledge in computing</li>
-                <li><input type="checkbox" id="item4" value="4">Basic computer security</li>
-                <li><input type="checkbox" id="item5" value="5">Basic graphic design</li>
-                <li><input type="checkbox" id="item5" value="5">Introduction to hardware</li>
-                <li><input type="checkbox" id="item5" value="5">Introduction to database</li>
-                <li><input type="checkbox" id="item5" value="5">Basics of computer networking</li>
-                <li><input type="checkbox" id="item5" value="5">The internet of things (IoT)</li>
-                <li><input type="checkbox" id="item5" value="5"> Introduction to softwares</li>
-            </ol>
-        </div>
+
+            <div class="course-selection">
+                <h2><u>Please select four(4) courses from the following and complete the form;</u></h2>
+                <ol id="course-list">
+                  <li><input type="checkbox" id="course1" value="Course 1">Basic Fundamentals of Programming</li>
+
+                  <li><input type="checkbox" id="course2" value="Course 2">Basic Web Development</li>
+
+                  <li><input type="checkbox" id="course3" value="Course 3">General Knowledge in Computing</li>
+
+                  <li><input type="checkbox" id="course4" value="Course 4">Basic Computer Security</li>
+
+                  <li><input type="checkbox" id="course5" value="Course 5">Introduction to Softwares</li>
+
+                  <li><input type="checkbox" id="course6" value="Course 6">Introduction to Hardware</li>
+
+                  <li><input type="checkbox" id="course7" value="Course 7">Fundamentals of Database</li>
+
+                  <li><input type="checkbox" id="course8" value="Course 7">Basics of Computer Networking</li>
+
+                  <li><input type="checkbox" id="course9" value="Course 7">The Internet of Things (IoT)</li>
+
+                  <li><input type="checkbox" id="course10" value="Course 7">Basic Graphic Design</li>
+                </ol>
+                <p id="notification"></p>
+            </div>
         </div>
 
     <!--Form for registration-->
 
         <div class="">
         <form class="form" action="DCS_siteProject.html" method="post">
-       
-            <input type="text" placeholder="Students ID" name="" id=""><br>
       
-            <input type="text" placeholder="First Name" name="" id=""><br>
+            <input type="text" placeholder="First Name" name="" class="form-input-fieldset" required>
  
-            <input type="text" placeholder="Last Name" name="" id=""><br>
+            <input type="text" placeholder="Last Name" name="" class="form-input-fieldset" required>
         
-            <input type="text" placeholder="Email(Use student mail if you're a student)" name="" id=""><br>
+            <input type="email" placeholder="Email" name="" class="form-input-fieldset" required>
         
-            <input type="text" placeholder="Phone Number" name="" id="">
+            <input type="tel" placeholder="Phone Number" name="" class="form-input-fieldset" required>
+
+            <input type="date" placeholder="Date of Birth" name="" class="form-input-fieldset" required>
+
+            <input type="text" placeholder="Occupation" name="" class="form-input-fieldset" required>
+
+            <fieldset class="form-input-fieldset">
+                <legend>Highest Level of Education:</legend>
+
+                <input type="checkbox" id="primarySchool" name="education" value="Primary School">
+                <label for="primarySchool">Primary School</label><br>
+          
+                <input type="checkbox" id="secondarySchool" name="education" value="Secondary School">
+                <label for="secondarySchool">Secondary School</label><br>
+          
+                <input type="checkbox" id="vocationalSchool" name="education" value="Vocational School">
+                <label for="vocationalSchool">Vocational School</label><br>
+          
+                <input type="checkbox" id="bachelorsDegree" name="education" value="Bachelor's Degree">
+                <label for="bachelorsDegree">Bachelor's Degree</label><br>
+            </fieldset>
         </form>
         </div>
       </section>
         <div class="submit-button">
-            <a class="form-button" href="#">Submit</a>
+            <a onclick="checkSelection()" class="form-button" href="#">Submit</a>
         </div>
     </section>
+    <hr>
 
     <footer>
         <section>
@@ -170,5 +200,8 @@
             </div>
         </section>
     </footer>
+
+
+    <script src="script.js"></script>
 </body>
 </html>
