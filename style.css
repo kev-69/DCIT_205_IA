@@ -785,11 +785,9 @@ div .grid-IT-CS {
 /**Enrollment form**/
 
 #form-section {
-    align-items: center;
-}
-
-.form-heading2 {
     text-align: center;
+    padding: 20px 300px 20px 300px;
+    border: 1px solid #ccc;
 }
 
 input {
@@ -802,9 +800,11 @@ input {
     outline: none;
 }
 
+.form-heading2 {
+    text-align: center;
+}
 
 .enroll-form {
-    align-items: center;
     background-color: azure;
     border-radius: 8px;
     padding: 40px;
@@ -818,6 +818,20 @@ input::placeholder {
     font-size: 0.9rem;
     text-align: center;
 
+}
+
+.submit-form-button {
+    text-decoration: none;
+    color: white;
+    font-size: 0.9rem;
+    padding: 10px 30px;
+    background-color: rgb(225, 189, 91);
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.submit-form {
+    margin-top: 20px;
 }
 
 
