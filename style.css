@@ -782,6 +782,58 @@ div .grid-IT-CS {
 
 /**Events Page Styling Ending**/
 
+/**Enrollment form**/
+
+#form-section {
+    align-items: center;
+}
+
+.form-heading2 {
+    text-align: center;
+}
+
+input {
+    width: 30%;
+    height: 100%;
+    margin: 5px 0;
+    padding: 15px 10px;
+    border: 1px solid rgb(167, 148, 235);
+    border-radius: 8px;
+    outline: none;
+}
+
+
+.enroll-form {
+    align-items: center;
+    background-color: azure;
+    border-radius: 8px;
+    padding: 40px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+
+
+input::placeholder {
+    color: #413c3c;
+    font-weight: 500;
+    font-size: 0.9rem;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
