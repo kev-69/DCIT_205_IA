@@ -239,6 +239,7 @@ p .premium-paragraph {
     height: 100%;
     background-size: ;
     background-position: center;
+    padding-top: 130px;
 }
  
 #free-form-h2 {
@@ -246,14 +247,17 @@ p .premium-paragraph {
 }
 
 #free-form {
-    padding: -2vw 0vw 4vw -2vw;
-    width: 100%;
+    padding: 50px 0px 50px 0px;
+    width: 1400px;
+    margin: 0 auto;
     height: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    
-  }
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    background-color: #b5b3b3;
+    }
 
 .paragraph-under-heading {
     text-align: center;
@@ -272,11 +276,32 @@ p .premium-paragraph {
     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
 }
 
-.form input {
-    margin: 5px 0;
+.form-input-fieldset {
+    width: 300px;
+    margin: 2px 0;
     padding: 15px 10px;
     border: 1px solid rgb(167, 148, 235);
     outline: none;
+}
+
+#primarySchool {
+    height: 15px;
+    width: 15px;
+}
+
+#secondarySchool {
+    height: 15px;
+    width: 15px;
+}
+
+#vocationalSchool {
+    height: 15px;
+    width: 15px;
+}
+
+#bachelorsDegree {
+    height: 15px;
+    width: 15px;
 }
 
 .form input::placeholder {
