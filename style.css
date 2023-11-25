@@ -426,6 +426,11 @@ footer h5 {
     padding-bottom: 20px;
 }
 
+.footer-anchor {
+    text-decoration: none;
+    color: #7b838a;
+}
+
 footer li {
     list-style: none;
     color: #7b838a;
@@ -439,7 +444,7 @@ footer li {
  }
 
 .second-col {
-    padding: 0 250px 50px 150px;
+    padding: 0 250px 0 150px;
     background-color: #041d4a;
     display: flex;
     justify-content: space-between;
