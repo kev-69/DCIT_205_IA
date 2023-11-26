@@ -958,6 +958,10 @@ input::placeholder {
         background-color: #d5d4d4;
 }
 
+#map {
+    padding-top: 90px;
+}
+
 .contact-us-div1 {
     display: flex;
 }
