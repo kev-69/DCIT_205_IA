@@ -416,7 +416,7 @@ p .premium-paragraph {
     transition: 0.3s ease;
 }
 
-/*footer styling*/
+/*Footer styling*/
 
 
 footer {
@@ -454,7 +454,14 @@ footer h5 {
 .footer-anchor {
     text-decoration: none;
     color: #7b838a;
+    
 }
+
+.footer-anchor:hover{
+    color: rgb(241, 240, 245);;
+ }
+
+
 
 footer li {
     list-style: none;
@@ -464,9 +471,6 @@ footer li {
     cursor: pointer;
 
 }
- footer li:hover {
-    color: rgb(241, 240, 245);;
- }
 
 .second-col {
     padding: 0 250px 0 150px;
