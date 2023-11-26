@@ -751,24 +751,24 @@ div .grid-IT-CS {
     border-radius: 15px;
     height: 140px;
     width: 140px;
+    transform: 0.3s;
 }
 
 .ccna-img:hover {
     cursor: pointer;
-    height: 180px;
-    width: 180px;
+    transform: scale(1.0);
 }
 
 .web-img {
     border-radius: 15px;
     height: 140px;
     width: 140px;
+    transform: 0.3s;
 }
 
 .web-img:hover {
     cursor: pointer;
-    height: 180px;
-    width: 180px;
+    transform: scale(1.0);
 }
 
 .a-class {
