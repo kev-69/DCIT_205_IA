@@ -16,16 +16,13 @@ As an interim assessment, we are to code a replica of the website of the departm
 ---------------------
 ### Cloning the Project
 1. Clone the repository to your local machine:
-    ```bash
     git clone https://github.com/kev-69/DCIT_205_IA.git
-    ```
 
 2. Change into the project directory:
-    ```bash
     cd DCIT_205_IA
-    ```
 
 ### Setting Up the Project
+
 1. Forked the repo from the required link (https://github.com/Daquiver1/DCIT_205_IA)
 
 2. Created folders for icons and images to be used on the site
@@ -42,7 +39,7 @@ As an interim assessment, we are to code a replica of the website of the departm
 
 ## Author
 ---------
-Your Name: [Bismark Obuobi]
+Name: [Bismark Obuobi]
 Student ID: [11146250 ]
 
 ## Screenshots
@@ -51,7 +48,7 @@ Screenshots from the various pages
 
 ### Home Page
 ![Home Page](Screenshots/homeScroll0.png)
-**
+
 ![Home Page](Screenshots/homeScroll1.png)
 *Visitors can use the buttons here to enroll for a free or paid course*
 
@@ -112,6 +109,11 @@ Screenshots from the various pages
 
 ![Contacts Page](Screenshots/contactsScroll1.png)
 *Department contact details and a textbox to send a message to inquire about the department*
+
+
+### Profile Page
+![Profile Page](Screenshots/profilePageScroll0.png)
+*Don't know their names so I couldn't include that*
 
 
 
