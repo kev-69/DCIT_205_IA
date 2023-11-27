@@ -423,9 +423,6 @@ p .premium-paragraph {
     padding-top: 30px;
 }
 
-.view-profiles-div {
-  
-}
 
 .view-profiles-button {
     align-items: center;
@@ -552,6 +549,7 @@ footer li {
     height: 30px;
     width: 30px;
 }
+
 /**Home Page Styling Ends Here**/
 
 
@@ -996,7 +994,89 @@ input::placeholder {
 }
 
 
+/* Profiles Page Styling */
 
+#student-heads-section {
+    padding-top: 120px;
+    text-align: center;
+}
+
+.students-heads-box {
+    display: flex;
+    padding: 50px;
+    border: 1px solid rgb(98, 98, 109);
+    background-color: #fafaf1; 
+    width: 1000px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.student-box {
+    border: 1px solid #fafaf1;
+    background-color: #d4d4b3; 
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.student-icon {
+    height: 90px;
+    width: 90px;
+}
+
+.students-facebook-icon {
+    margin: 5px;
+    padding: 5px 5px;
+    cursor: pointer;
+    height: 35px;
+    width: 35px;
+    border: 1px solid rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+
+.students-github-icon {
+    margin: 5px;
+    padding: 5px 5px;
+    cursor: pointer;
+    height: 35px;
+    width: 35px;
+    border: 1px solid rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px
+}
+
+
+.students-linkedin-icon {
+    margin: 5px;
+    padding: 5px 5px;
+    cursor: pointer;
+    height: 35px;
+    width: 35px;
+    border: 1px solid rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px
+}
+
+#student-organizers-section {
+    text-align: center;
+}
+
+.organizers-box {
+    display: flex;
+    padding: 50px;
+    border: 1px solid;
+    background-color: #ededb6; 
+    width: 1250px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
 
 
 
