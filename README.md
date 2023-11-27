@@ -3,7 +3,7 @@ DCS Website Replica
 
 Brief Introduction:
 -------------------
-As an interim assessment, we are to code a replica of the website of the department of computer science of university of Ghana. We are to add new function
+As an interim assessment, we are to code a replica of the website of the department of computer science of university of Ghana. We are to add new functionalities to the site as well and style to make it more appealing. It is an educational site.
 
 ## Table of Contents
 1. [Introduction](#brief-introduction)
@@ -107,13 +107,11 @@ Screenshots from the various pages
 
 
 ### Contacts Page
-![Contacts Page]
+![Contacts Page](Screenshots/contactsScroll0.png)
+*A map pointing exactly to the location of the department(requires internet connection)*
 
-![Contacts Page]
-
-![Contacts Page]
-
-![Contacts Page]
+![Contacts Page](Screenshots/contactsScroll1.png)
+*Department contact details and a textbox to send a message to inquire about the department*
 
 
 
