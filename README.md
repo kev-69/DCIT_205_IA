@@ -1,5 +1,5 @@
 # Project Name
-UniDCSReplica
+DCS Website Replica
 
 Brief Introduction:
 -------------------
@@ -17,12 +17,12 @@ Provide a concise introduction to your website and its purpose. Explain what the
 ### Cloning the Project
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/kev-69/DCIT_205_IA.git
     ```
 
 2. Change into the project directory:
     ```bash
-    cd your-repository
+    cd DCIT_205_IA
     ```
 
 ### Setting Up the Project
@@ -30,8 +30,8 @@ Provide a concise introduction to your website and its purpose. Explain what the
 
 ## Author
 ---------
-Your Name: [Your Name]
-Student ID: [Your Student ID]
+Your Name: [Bismark Obuobi]
+Student ID: [11146250 ]
 
 ## Screenshots
 --------------
