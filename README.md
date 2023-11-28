@@ -82,6 +82,14 @@ Screenshots from the various pages
 ![About Page](Screenshots/aboutScroll1.png)
 
 
+### Blog Page
+![Blog Page](Screenshots/blogScroll0.png)
+
+![Blog Page](Screenshots/blogScroll1.png)
+
+![Blog Page](Screenshots/blogScroll2.png)
+
+
 
 ### Catalog Page
 ![Catalog Page](Screenshots/catalogScroll0.png)
