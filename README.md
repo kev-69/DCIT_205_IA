@@ -149,10 +149,16 @@ Screenshots from the various pages
 
 ## What I Have Learned
 ----------------------
-1. In the beginning of the project, I have made all my files in a different folder before I forked and cloned the repo. Since I didnt want to lose all my commit I learnt a way to merge the files to the forked repo without losing my previous commits.
-2. Learnt how to
-3. 
-4. 
-5. 
-6. 
-7. 
+1. My proficiency with HTML and CSS has improved as a result of working on the department website, turning my academic understanding into useful application. I can now create layouts and organize material with ease, giving users of our website a visually beautiful and intuitive experience.
+
+2. Though I didnt include much JavaScript in the website, the website now has more dynamic functionality and engagement thanks to the integration of JavaScript. I now know how to handle form validation and create responsive navigation bars using JavaScript to improve user experiences. The website now has more interaction and reactivity because to this newly acquired ability.
+
+3. Using GitHub and Git to manage the department website's development has been a valuable learning experience. I now see how crucial version control is to team projects since it makes it possible to track changes effectively and collaborate with others without interruption.
+
+4. Our department website is optimized for different screen sizes and devices thanks to the use of responsive design concepts. My understanding of media queries and adaptable grid layouts has improved the website's usability and accessibility on various platforms.
+
+5. The website now has a more dynamic feel thanks to the addition of multimedia components and maps indicating the department's location. I now know how to use APIs to include maps and optimize multimedia for an eye-catching and educational online presence.
+
+6. One thing I've learned about the value of collaborative development is working on the department website. Through communication platforms and tools like Visual Studio Code, I've learnt how to work with others in a team, exchange code effectively, and manage difficulties.
+
+7. My technical skill set has grown as a result of this practical experience building the department website, and it has also given me insightful knowledge about the cooperative and user-centered nature of web development. I can't wait to use what I've learned in upcoming projects and help our department's web presence continue to get better.
