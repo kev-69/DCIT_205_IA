@@ -40,3 +40,12 @@ function initializeMap() {
     L.marker(departmentLocation).addTo(map)
         .bindPopup('Computer Science Department');
 }
+
+    const textOverlay = document.getElementById('text-overlay');
+
+    const animation = () => {
+    textOverlay.style.transform = `translate(-50%, -50%) rotate(${Math.random() * 360}deg)`;
+    textOverlay.style.transition = 'transform 1s ease-in-out';
+};
+
+    setInterval(animation, 2000);
