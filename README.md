@@ -103,7 +103,9 @@ Screenshots from the various pages
 
 
 ### Researches Page
-![Researches Page](Screenshots/)
+![Researches Page](Screenshots/researchesScroll0.png)
+
+![Researches Page](Screenshots/researchesScroll1.png)
 
 
 
