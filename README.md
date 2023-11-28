@@ -3,7 +3,7 @@ DCS Website Replica
 
 Brief Introduction:
 -------------------
-As an interim assessment, we are to code a replica of the website of the department of computer science of university of Ghana. We are to add new functionalities to the site as well and style to make it more appealing. It is an educational site.
+Welcome to an improved version of the Universiy of Ghana's Department of Computer Science website. As an interim assessment, we are tasked to code an improved replica of the website of the department of computer science of university of Ghana with new functionalities, features and design. We are to add new functionalities to the site as well and style to make it more appealing. It is an educational site.
 
 ## Table of Contents
 1. [Introduction](#brief-introduction)
@@ -147,6 +147,10 @@ Screenshots from the various pages
 
 ## What I Have Learned
 ----------------------
-List the key learnings or takeaways from working on this project. This could include technical skills, problem-solving experiences, or anything you found particularly interesting or challenging.
-
-Feel free to format and structure the README according to your preferences. Ensure that it is well-organized, clear, and professional in presentation.
+1. In the beginning of the project, I have made all my files in a different folder before I forked and cloned the repo. Since I didnt want to lose all my commit I learnt a way to merge the files to the forked repo without losing my previous commits.
+2. Learnt how to
+3. 
+4. 
+5. 
+6. 
+7. 
