@@ -1188,6 +1188,66 @@ input::placeholder {
 }
 
 
+/*Research page*/
+
+#research-section {
+    padding-top: 80px;
+}
+
+.w-layout-blockcontainer {
+    max-width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .div-block-23 {
+    flex-direction: column;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    display: flex;
+  }
+
+  .div-block-24 {
+    margin-left: 0;
+  }
+
+  .heading-8 {
+    padding-left: 0;
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .paragraph-5 {
+    text-align: justify;
+  }
+
+  .heading-8 {
+    padding-left: 0;
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .paragraph-5 {
+    text-align: justify;
+  }
+
+  .bold-text-2 {
+    text-align: justify;
+    font-weight: 400;
+    line-height: 24px;
+  }
+
+  .link-6 {
+    text-decoration: none;
+  }
+
+  .bold-text-2 {
+    text-align: justify;
+    font-weight: 400;
+    line-height: 24px;
+  }
+
 
 
 

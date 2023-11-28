@@ -102,8 +102,8 @@ Screenshots from the various pages
 
 
 
-### Resources Page
-![Resources Page](Screenshots/)
+### Researches Page
+![Researches Page](Screenshots/)
 
 
 
