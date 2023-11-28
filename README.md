@@ -9,8 +9,9 @@ As an interim assessment, we are to code a replica of the website of the departm
 1. [Introduction](#brief-introduction)
 2. [Setup Instructions](#setup-instructions)
 3. [Author](#author)
-4. [Screenshots](#screenshots)
-5. [Lessons Learnt](#what-i-have-learned)
+4. [Page Links](#Buttons-to-new-pages)
+5. [Screenshots](#screenshots)
+6. [Lessons Learnt](#what-i-have-learned)
 
 ## Setup Instructions
 ---------------------
@@ -41,6 +42,19 @@ As an interim assessment, we are to code a replica of the website of the departm
 ---------
 Name: [Bismark Obuobi]
 Student ID: [11146250 ]
+
+## Buttons-to-new-pages
+1. "Home" (On the nav bar)
+2. "About" (On the nav bar)
+3. "Blog" (On the nav bar)
+4. "Catalog" (On the nav bar)
+5. "Resources" (On the nav bar)
+6. "Events" (On the nav bar)
+7. "Contacts" (On the nav bar)
+8. "Sign Up for Freemium" (On the Home page)
+9. "Sign Up for Premium" (On the Home page)
+10. "View All Profiles" (On the Home page)
+
 
 ## Screenshots
 --------------
