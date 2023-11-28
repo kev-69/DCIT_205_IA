@@ -1134,6 +1134,68 @@ input::placeholder {
     margin: 0 auto;
 }
 
+/* Resources page styling */
+
+#resources-page-section {
+    width: 1300px;
+    margin: 0 auto;
+    height: 100vh;
+    border-radius: 10px;
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 249, 249);
+}
+
+
+
+#background-video {
+    top: 0;
+    left: 0;
+    width: 1300px;
+    margin: 0 auto;
+    height: 100vh;
+    z-index: -1;
+  }
+  
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+  }
+
+#blog-div-id {
+    display: flex;
+}
+
+.blog-div {
+    background-color: #dccdcd;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 10px;
+    border: 1px solid rgba(21, 21, 100);
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
